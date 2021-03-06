@@ -17,7 +17,7 @@ func main() {
 	defer cancel()
 
 	url := "https://www.nytimes.com/"
-	filename := "golangcode.png"
+	filename := "nyt.png"
 
 	// Run Tasks
 	// List of actions to run in sequence (which also fills our image buffer)
