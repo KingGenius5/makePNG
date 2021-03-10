@@ -2,7 +2,7 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/KingGenius5/makesite)](https://goreportcard.com/report/github.com/KingGenius5/makesite)
 
-MakePNG is a ChromeDP CLI that takes a screenshot of any webpage and saves it as a PNG. Currently takes pictures of the NYT front page; you'll have to manually change the URL unti the args update comes along.
+MakePNG is a ChromeDP CLI that takes a screenshot of any webpage and saves it as a PNG. Currently takes pictures of the NYT front page; you'll have to manually change the URL until the args update comes along.
 
 ![NYT](nyt.png)
 
