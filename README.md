@@ -16,4 +16,4 @@ MakePNG is a ChromeDP CLI that takes a screenshot of any webpage and saves it as
     $ go run main.go
 ```
 
-And you'll have a PNG of the NYT front page at your fingertips.
+And you'll have a PNG image filed saved of the NYT front page at your fingertips.
