@@ -6,6 +6,8 @@ MakePNG is a ChromeDP CLI that takes a screenshot of any webpage and saves it as
 
 ![NYT](nyt.png)
 
+### Stacks Used
+
 ### Getting Started
 
 ```bash
